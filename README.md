@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KashifR13
-- 👀 I focused on the backend development, implementation, and contribution to multiple features for Easypaisa* mobile app.
+- 👀 I used to focuse on the backend development, implementation, and contribution to multiple features for Easypaisa* mobile app.
 - 🌱 I’m currently learning and upgrading my skillset through applied learning and the implementation of some of the front-end development concepts/methodologies along with BE.
 - 💞️ I’m looking to collaborate on Full-Stack mobile application development projects including open source ones.
 - 📫 You can reach me out on LikendIn at https://www.linkedin.com/in/kashif-rasool/ and through email at kashifrasool.13@gmail.com
